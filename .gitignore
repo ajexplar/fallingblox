@@ -1,0 +1,14 @@
+# Media files
+*.ttf
+*.wav
+*.png
+
+# Text files that are not the README
+*.txt
+
+# C++ output files
+*.o
+fallblox
+
+# Dummy files
+test*
