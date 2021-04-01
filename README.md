@@ -1,6 +1,6 @@
 A falling block game made in SFML 2.0 and C++11.
 
-# Controls
+# Playing
 - Press the arrow keys to control the shape as it descends toward the bottom of the screen
 - Press 'R' to rotate the shape before it finishes moving
 - Press 'P' to pause the game.
